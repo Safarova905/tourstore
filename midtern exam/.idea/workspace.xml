@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e363f882-3856-4b81-b047-11fb29b018ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="Scala Trait" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="c2da7512-0ecf-45da-af30-1b96aba463c3" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2796sC4ZUuEyTlRjdxzx171nFxr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../akka-http-quickstart-scala" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="controller" />
+      <recent name="domain.users" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/users/signup" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot; : &quot;user1&quot;,&#10;  &quot;password&quot; : &quot;user1&quot;,&#10;  &quot;role&quot; : &quot;admin&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/users/signup" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot; : &quot;user1&quot;,&#10;  &quot;passwordHash&quot; : &quot;user1&quot;,&#10;  &quot;role&quot; : &quot;admin&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/signup" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;username&quot; : &quot;user1&quot;,&#10;  &quot;passwordHash&quot; : &quot;user1&quot;,&#10;  &quot;role&quot; : &quot;admin&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.All in requests">
+    <configuration name="HelloWorldApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorldApp" />
+      <module name="midtern exam" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in requests" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/src/main/resources/http/requests.http">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.All in requests" />
+        <item itemvalue="Application.HelloWorldApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e363f882-3856-4b81-b047-11fb29b018ef" name="Default Changelist" comment="" />
+      <created>1648720158784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648720158784</updated>
+      <workItem from="1648720160210" duration="4334000" />
+      <workItem from="1650961655985" duration="12000" />
+      <workItem from="1655894157017" duration="15714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="206" y="249" key="#SQL_Dialects" timestamp="1655918691115">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="206" y="249" key="#SQL_Dialects/0.0.1536.816@0.0.1536.816" timestamp="1655918691115" />
+    <state x="499" y="163" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1655917324098">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.816@0.0.1536.816" timestamp="1655917324098" />
+    <state x="361" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655920706448">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1655920706448" />
+    <state x="127" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1655896783361">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="127" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1655896783361" />
+    <state x="574" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1655894992602">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="574" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1655894992602" />
+    <state x="125" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1655900722491">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="125" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.816@0.0.1536.816" timestamp="1655900722491" />
+    <state x="566" y="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1655900732350">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="566" y="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.816@0.0.1536.816" timestamp="1655900732350" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1655897695921">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1655897695921" />
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1655926889874">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1655926889874" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1655926889874">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1655926889874" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1655926889874">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1655926889874" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1655926889874">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1655926889874" />
+    <state x="663" y="295" width="312" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1655922111762">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="663" y="295" width="312" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.816@0.0.1536.816" timestamp="1655922111762" />
+    <state x="566" y="228" width="403" height="355" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1655922225783">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="566" y="228" width="403" height="355" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1536.816@0.0.1536.816" timestamp="1655922225783" />
+    <state x="634" y="76" width="464" height="454" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1655922270433">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="634" y="76" width="464" height="454" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.816@0.0.1536.816" timestamp="1655922270433" />
+    <state x="477" y="141" width="581" height="534" key="find.popup" timestamp="1655922979010">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="477" y="141" width="581" height="534" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1655922979010" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1655919795325">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1655919795325" />
+    <state x="430" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1648732528572">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="430" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1648732528572" />
+  </component>
+</project>
